@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I'm currently studying on Don Bosco University, Computer Science Engineer
 - 🔭 I’m currently working on Instituto Tecnico Ricaldone
 - 🌱 I’m currently learning Java para aplicaciones moviles con Android Studio
 
