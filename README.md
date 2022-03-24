@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Instituto Tecnico Ricaldone
+- 🌱 I’m currently learning Java para aplicaciones moviles con Android Studio
+
 <!--
 **danielwilfredo/danielwilfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
