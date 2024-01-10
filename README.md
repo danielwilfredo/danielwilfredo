@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm currently studying on Don Bosco University, Computer Science Engineer
+- 🔭 I'm a Computer Science Engineer
 - 🔭 I’m currently working on Instituto Tecnico Ricaldone
+- 🌱 I’m currently learning React Native
 
 <!--
 **danielwilfredo/danielwilfredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
