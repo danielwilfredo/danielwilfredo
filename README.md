@@ -14,8 +14,7 @@
 [![MySQL](https://img.shields.io/badge/Mysql-F80000?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Wordpress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=WordPress&logoColor=white&labelColor=101010)]()
 [![Notion](https://img.shields.io/badge/Notion-181A1D?style=for-the-badge&logo=Notion&logoColor=white&labelColor=101010)]()
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualBox&logoColor=white&labelColor=101010)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)]()
+[![Figma](https://img.shields.io/badge/Figma-183A61?style=for-the-badge&logo=Figma&logoColor=white&labelColor=101010)]()
 
 ---
 
