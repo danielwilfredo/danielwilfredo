@@ -1,4 +1,4 @@
-# Hi there 👋, My name is Wilfredo and I'm a Junior Developer
+# Hi there 👋, My name is Wilfredo and I'm a Web Developer
 
 - 🔭 I'm a Computer Science Engineer
 - 🔭 I’m currently working on Instituto Tecnico Ricaldone
